@@ -1,0 +1,2 @@
+# SQL resource
+ HACKER RANK SQL PRACTICE
